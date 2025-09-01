@@ -50,8 +50,7 @@ Credit Card Fraud Detection/
 │── scaler.pkl # Scaler for preprocessing
 
 ## ⚙️ Installation  
-
-1. Clone the repository:  
+Clone the repository:  
 ```bash
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
